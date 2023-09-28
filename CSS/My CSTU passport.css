@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    background-color: rgb(219, 57, 84);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 350%; 
+    
+}
+p { 
+    
+font-size: 150%;
+color: rgb(252, 241, 240);
+font-weight: bold;
+font-family: sans-serif;
+text-align: center;
+}
+
+h1 {
+color: rgb(255, 255, 255); 
+font-size: 350%;"<center>
+}
+h2 {
+font-size: 200%;font-family: ;
+ color: rgb(245, 77, 119);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ background-color: rgb(255, 187, 220);
+
+}
+h3 {
+font-size: 200%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(255, 194, 209);
+background-color: rgb(233, 122, 122);
+}
+img {
+height: 150px; width: 150px;
+
+}
+#ITMS {
+border: 3px solid rgb(118, 0, 0); 
+background-color: rgb(241, 103, 119);
+}
+#PIC {
+border: 3px solid rgb(162, 38, 61); 
+background-color: rgb(254, 194, 203);
+
+}
+#CONT {
+border: 3px solid rgb(216, 82, 82); 
+background-color: rgb(195, 63, 78);
+
+}
